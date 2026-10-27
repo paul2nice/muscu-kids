@@ -1,0 +1,11 @@
+{
+  "name": "muscu-kids",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Appli de muscu gamifiée pour enfants (PWA)",
+  "scripts": {
+    "start": "npx --yes serve -l 8080 .",
+    "test": "node --test"
+  }
+}
